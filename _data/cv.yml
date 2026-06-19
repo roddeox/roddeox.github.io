@@ -1,62 +1,86 @@
-- title: Education
-  type: time_table
-  contents:
-    - title: MS in Computer Science and Engineering
-      institution: Sogang University, South Korea
-      year: 2023 - 2025
-      description:
-        - "Global Korea Scholarship (GKS) Scholar: Full government sponsorship."
-        - "GPA: 3.99/4.3 - Ranked 4th out of 25; coursework primarily in Korean."
-        - "Specialization: Deep Learning, Multimodal AI, Audio-Visual Learning, Pattern Recognition."
-    - title: BS in Mechanical Engineering
-      institution: Universidade Federal Fluminense, Brazil
-      year: 2016 - 2021
+cv:
+  name: Rodrigo Picinini Méxas
+  label: Computer Vision & AI Engineer
+  location: South Korea
+  image: ""
+  summary: ""
 
-- title: Research and Industry Experience
-  type: time_table
-  contents:
-    - title: AI Driven Smart Devices Engineer
-      institution: Mopticon, South Korea
-      year: 2025 - Present
+  social_networks:
+    - network: Google Scholar
+      username: _cZMPGoAAAAJ
+    - network: GitHub
+      username: # your GitHub username
+    - network: LinkedIn
+      username: https://www.linkedin.com/in/rodrigo-picinini-m%C3%A9xas-1a31b51a3/
 
-    - title: Graduate Researcher
-      institution: Computer Vision and Image Processing Lab, Sogang University, South Korea
-      year: 2023 - 2025
+  sections:
+    Education:
+      - institution: Sogang University
+        location: Seoul, South Korea
+        area: Computer Science and Engineering
+        studyType: MS
+        start_date: 2023-03
+        end_date: 2025-02
+        highlights:
+          - "Global Korea Scholarship (GKS) Scholar"
+      - institution: Universidade Federal Fluminense
+        location: Niterói, Brazil
+        area: Mechanical Engineering
+        studyType: BS
+        start_date: 2016-03
+        end_date: 2021-11
 
-    - title: AI & Computer Vision Researcher and Developer
-      institution: Extreme Digital Solutions, Brazil
-      year: 2021 - 2022
+    Experience:
+      - company: Mopticon
+        position: AI Driven Smart Devices Engineer
+        location: South Korea
+        start_date: 2025-03
+        end_date: present
+      - company: Computer Vision and Image Processing Lab, Sogang University
+        position: Graduate Researcher
+        location: South Korea
+        start_date: 2023-03
+        end_date: 2025-02
+      - company: Extreme Digital Solutions
+        position: AI & Computer Vision Researcher and Developer
+        location: Brazil
+        start_date: 2021-12
+        end_date: 2022-08
+        highlights:
+          - "Contributed to the AuQuA Project, a collaboration with researchers from USP, UnB, and RWTH Aachen."
+          - "Researched 6D pose estimation for part orientation and assembly verification."
+          - "Researched hand action recognition and 3D hand pose estimation for operator-part interaction."
+          - "Generated CAD-based synthetic training data with domain randomization, analyzing the effects of texture, lighting, and environment on sim-to-real performance."
+      - company: Extreme Digital Solutions
+        position: Data Analysis, Governance and Software Engineering Process Intern
+        location: Brazil
+        start_date: 2020-08
+        end_date: 2021-12
 
-    - title: Data Analysis, Governance and Software Engineering Process Intern
-      institution: Extreme Digital Solutions, Brazil
-      year: 2020 - 2021
+    Awards:
+      - title: Global Korea Scholarship 2022 (GKS)
+        date: 2022
+        awarder: National Institute for International Education
+        summary: 1 of 6 selected in Brazil.
+      - title: Excellent Application Research Award
+        date: 2024
+        awarder: Korea Computer Congress XAI Workshop
+        summary: Speech-Based Dysarthria Diagnosis and Explanation System.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - title: Global Korea Scholarship 2022 (GKS)
-      year: 2022
-    - title: Excellent Application Research Award
-      year: 2024
+    Languages:
+      - name: Portuguese
+        summary: Native
+      - name: English
+        summary: "Fluent (TOEFL iBT 107)"
+      - name: Korean
+        summary: "Fluent (TOPIK 6)"
+      - name: German
+        summary: "Basic (A2)"
 
-- title: Languages
-  type: list
-  contents:
-    - "Portuguese: Native"
-    - "English: Fluent (TOEFL iBT 107)"
-    - "Korean: Fluent (TOPIK 6)"
-    - "German: Basic (A2)"
-
-- title: Skills
-  type: nested_list
-  contents:
-    - title: Programming
-      items:
-        - C++, Python, C#
-    - title: Machine Learning
-      items:
-        - PyTorch, TensorFlow, Numpy, OpenCV, TensorRT, CUDA
-        - RL, Computer Vision, Speech Processing, NLP, Multimodal AI
-    - title: Tools
-      items:
-        - Unity, Docker, Git, Power BI, Azure, Linux
+    Skills:
+      - name: Programming
+        keywords: "C++, Python, C#"
+      - name: Machine Learning
+        keywords: "PyTorch, TensorFlow, Numpy, OpenCV, TensorRT, CUDA, RL, Computer Vision, Speech Processing, NLP, Multimodal AI"
+      - name: Tools
+        keywords: "Unity, Docker, Git, Power BI, Azure, Linux"

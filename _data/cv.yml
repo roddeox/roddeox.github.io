@@ -1,9 +1,7 @@
 cv:
   name: Rodrigo Picinini Méxas
-  label: Computer Vision & AI Engineer
   location: South Korea
   image: ""
-  summary: ""
 
   social_networks:
     - network: Google Scholar
@@ -11,7 +9,7 @@ cv:
     - network: GitHub
       username: # your GitHub username
     - network: LinkedIn
-      username: https://www.linkedin.com/in/rodrigo-picinini-m%C3%A9xas-1a31b51a3/
+      username: rodrigo-picinini-m%C3%A9xas-1a31b51a3
 
   sections:
     Education:
@@ -46,11 +44,6 @@ cv:
         location: Brazil
         start_date: 2021-12
         end_date: 2022-08
-        highlights:
-          - "Contributed to the AuQuA Project, a collaboration with researchers from USP, UnB, and RWTH Aachen."
-          - "Researched 6D pose estimation for part orientation and assembly verification."
-          - "Researched hand action recognition and 3D hand pose estimation for operator-part interaction."
-          - "Generated CAD-based synthetic training data with domain randomization, analyzing the effects of texture, lighting, and environment on sim-to-real performance."
       - company: Extreme Digital Solutions
         position: Data Analysis, Governance and Software Engineering Process Intern
         location: Brazil

@@ -54,21 +54,19 @@ cv:
       - title: Global Korea Scholarship 2022 (GKS)
         date: 2022
         awarder: National Institute for International Education
-        summary: 1 of 6 selected in Brazil.
       - title: Excellent Application Research Award
         date: 2024
         awarder: Korea Computer Congress XAI Workshop
-        summary: Speech-Based Dysarthria Diagnosis and Explanation System.
 
     Languages:
       - name: Portuguese
         summary: Native
       - name: English
-        summary: "Fluent (TOEFL iBT 107)"
+        summary: "Fluent"
       - name: Korean
-        summary: "Fluent (TOPIK 6)"
+        summary: "Fluent"
       - name: German
-        summary: "Basic (A2)"
+        summary: "Basic"
 
     Skills:
       - name: Programming

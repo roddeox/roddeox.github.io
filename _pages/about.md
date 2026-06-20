@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher. Engineer. Language enthusiast.
+subtitle: AI Researcher and Multilingual Engineer
 
 profile:
   align: right
@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a computer vision and AI engineer at [Mopticon](https://www.mopticon.com), where I build real-time perception systems for intelligent transportation systems. I completed my MS in Computer Science and Engineering at [Sogang University](https://www.sogang.ac.kr) as a [Global Korea Scholarship](http://www.niied.go.kr) scholar, where I worked at the [Computer Vision and Image Processing Lab](https://cviplab.sogang.ac.kr/cviplab/). I hold a BS in Mechanical Engineering from [Universidade Federal Fluminense]([http://www.uff.br](https://international.uff.br/)) in Brazil.
+I'm a computer vision and AI engineer at [Mopticon](https://www.mopticon.com), where I build real-time perception systems for intelligent transportation systems. I completed my MS in Computer Science and Engineering at [Sogang University](https://www.sogang.ac.kr) as a Global Korea Scholarship scholar, where I worked at the [Computer Vision and Image Processing Lab](https://cviplab.sogang.ac.kr/cviplab/). I hold a BS in Mechanical Engineering from [Universidade Federal Fluminense](https://international.uff.br/) in Brazil.
 
 I have experience in researching multimodal deep learning, computer vision, speech processing, speech visualization, and reinforcement/imitation learning for simulation. I have also contributed to the [AuQuA project](http://auqua.wzl.rwth-aachen.de/en/default.html), a multi-institution research collaboration on AI-driven industrial quality assurance while working at [Extreme Digital Solutions](https://www2.extremedigital.com.br/).
 

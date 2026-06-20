@@ -1,15 +1,14 @@
 cv:
   name: Rodrigo Picinini Méxas
-  location: South Korea
+  location: Seoul, South Korea
+  email: ropimex@sogang.ac.kr
   image: ""
 
   social_networks:
     - network: Google Scholar
       username: _cZMPGoAAAAJ
-    - network: GitHub
-      username: # your GitHub username
     - network: LinkedIn
-      username: rodrigo-picinini-m%C3%A9xas-1a31b51a3
+      username: rodrigo-picinini-méxas-1a31b51a3
 
   sections:
     Education:

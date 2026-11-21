@@ -28,11 +28,16 @@ cv:
         end_date: 2021-11
 
     Experience:
+      - company: Samsung Research
+        position: R&D Specialist
+        location: Brazil
+        start_date: 2026-11
+        end_date: present
       - company: Mopticon
         position: AI Driven Smart Devices Engineer
         location: South Korea
         start_date: 2025-03
-        end_date: present
+        end_date: 2026-10
       - company: Computer Vision and Image Processing Lab, Sogang University
         position: Graduate Researcher
         location: South Korea
